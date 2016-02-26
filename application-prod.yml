@@ -1,0 +1,5 @@
+accessTokenUri: prod11
+userAuthorizationUri: prod12
+userInfoUri: prod13
+clientId: prod14
+clientSecret: prod55
