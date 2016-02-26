@@ -1,0 +1,13 @@
+plans:
+  qa:
+      accessTokenUri: qa11
+      userAuthorizationUri: qa12
+      userInfoUri: qa13
+      clientId: qa14
+      clientSecret: qa15
+  prod:
+      accessTokenUri: qa21
+      userAuthorizationUri: qa22
+      userInfoUri: qa33
+      clientId: qa24
+      clientSecret: qa25
